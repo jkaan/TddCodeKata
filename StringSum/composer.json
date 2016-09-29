@@ -1,0 +1,17 @@
+{
+    "name": "joeykaan/string-sum",
+    "authors": [
+        {
+            "name": "Joey Kaan",
+            "email": "j.kaan@coolblue.nl"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jk\\CodeKatas\\": "src/"
+        }
+    }
+}
